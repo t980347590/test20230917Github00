@@ -1,0 +1,3 @@
+Control Panel\User Accounts\Credential Manager
+
+に、gitHubのtokenは入る。
